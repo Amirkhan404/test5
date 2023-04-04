@@ -1,2 +1,2 @@
-import Amirk
-Amirk.approval()
+import iq
+iq.main__home()
